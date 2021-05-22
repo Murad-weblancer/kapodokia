@@ -1,0 +1,15 @@
+@font-face{
+    font-family: 'Ball';
+    font-weight: 400;
+    src: url('../fonts/Playball-Regular.ttf')format('truetype');
+}
+@font-face{
+    font-family: 'Roboto';
+    font-weight: 300;
+    src: url('../fonts/RobotoCondensed-Light.ttf')format('truetype');
+}
+@font-face{
+    font-family: 'Roboto';
+    font-weight: 400;
+    src: url('../fonts/RobotoCondensed-Regular.ttf')format('truetype');
+}
